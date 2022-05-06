@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -37,6 +36,9 @@ bower_components
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
+
+# Compiled TS files
+dist/
 
 # Dependency directories
 node_modules/
@@ -103,8 +105,3 @@ dist
 
 # TernJS port file
 .tern-port
-=======
-node_modules
-# Keep environment variables out of version control
-.env
->>>>>>> 7e04463 (Initial NLW Return NodeJS project)
